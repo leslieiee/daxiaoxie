@@ -4,3 +4,4 @@ line3 - dev
 line4 - dev
 test1
 test2
+test3
