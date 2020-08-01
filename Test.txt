@@ -3,3 +3,4 @@ line 3 - master
 line3 - dev
 line4 - dev
 test1
+test2
